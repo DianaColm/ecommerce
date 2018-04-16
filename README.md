@@ -1,7 +1,7 @@
 # AMATISTA ECOMMERCE
 ------
 
-![website](assets/images/imac.png)
+![website](https://github.com/DianaColm/ecommerce-jewelry/blob/master/assets/images/imac.png?raw=true)
 
 Esta aplicación es una ecommerce dedicada a la venta de joyeria.
 Al ser una api con un gran número de productos, delimitamos nuestra solicitud sólo a joyería.
